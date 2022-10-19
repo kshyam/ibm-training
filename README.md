@@ -38,6 +38,10 @@ https://github.com/kshyam?tab=repositories
 
 https://github.com/IBM-EPBL/Assignments-CApD/
 
+**SendGrid Integration** 
+
+https://docs.sendgrid.com/for-developers/sending-email/quickstart-python
+
 
 
 
